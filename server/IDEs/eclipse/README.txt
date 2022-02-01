@@ -10,7 +10,7 @@
   Launch Files (*.launch)
   -----------------------
   
-  These are files that help you running Google Refine directly from eclipse without having to execute
+  These are the files that help you run Google Refine directly from eclipse without having to execute
   the shell scripts.
   
   To run, right click on the files directly from Eclipse, then do "Run As -> <name>".
