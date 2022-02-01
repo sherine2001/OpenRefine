@@ -36,7 +36,7 @@ package com.google.refine.expr.functions;
 import java.io.IOException;
 import java.util.Properties;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
+
 import com.google.refine.expr.EvalError;
 import com.google.refine.grel.Function;
 import com.google.refine.grel.ControlFunctionRegistry;
